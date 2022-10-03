@@ -49,7 +49,7 @@ Abaixo, o estudo descreve categoria, instituição responsável e locais para re
 •	Categoria: Dado público.
 •	Instituição Responsável: os dados geográficos e tabulares são disponibilizados publicamente no site do IBGE..
 •	Link para download da informação:
-•	https://www.ibge.gov.br/geociencias/informacoes-ambientais/cobertura-e-uso-da-terra/15831-cobertura-e-uso-da-terra-do-brasil.html?=&t=downloads
+	https://www.ibge.gov.br/geociencias/informacoes-ambientais/cobertura-e-uso-da-terra/15831-cobertura-e-uso-da-terra-do-brasil.html?=&t=downloads
 
 2.1.3 Fonte de Dados da informação de Planilha de Preços Referenciais da Terra (INCRA);
 •	Categoria: Dado público
@@ -60,13 +60,13 @@ Abaixo, o estudo descreve categoria, instituição responsável e locais para re
 •	Categoria: Dado público.
 •	Instituição Responsável: O banco de dados de Municípios e Regiões que foi utilizado no sistema se encontra hospedado no IBGE.
 •	Link para download da informação:
-•	https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?=&t=acesso-ao-produto
+	https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?=&t=acesso-ao-produto
 
 2.1.5 Fonte de Dados da informação de Áreas Urbanas que possuem mais de 100 mil habitantes (IBGE);
 •	Categoria: Dado público.
 •	Instituição Responsável: O banco de dados das malhas de Setores Censitários de áreas Urbanas que possuem mais de 100 mil habitantes que foi utilizado no sistema se encontra hospedado no IBGE.
 •	Link para download da informação:
-•	https://www.ibge.gov.br/geociencias/organizacao-do-territorio/tipologias-do-territorio/15789-areas-urbanizadas.html?=&t=downloads
+	https://www.ibge.gov.br/geociencias/organizacao-do-territorio/tipologias-do-territorio/15789-areas-urbanizadas.html?=&t=downloads
 
 2.2 Modelagem Dimensional de Bancos de Dados
 
@@ -77,8 +77,10 @@ Entidades – Uma entidade é uma representação de um conjunto de informaçõe
 Relacionamentos – O relacionamento de bancos de dados é associação entre as entidades que foram mencionadas. Existem 3 diferentes tipos de relacionamento utilizados em bancos de dados, são eles “uma para um”, “uma para muitos” e de “muitos para uma”.
 
 Atributos – Os atributos são as informações que caracterizam as entidades e os relacionamentos mencionados. O atributo identifica, qualifica, descreve, quantifica e registra, o estado / situação / ocorrência, de uma entidade. Dentre os atributos usados no Sistema de BI, voltado para auxiliar processo de tomada de decisão e inteligência territorial do INCRA, cabe destacar Código MRT (Mercados Regionais de Terras), Área hectare e Classe de Uso (Uso e Cobertura do Solo), Valores da PPR (Planilhas de Preço Referencial da Terra), entre outros.
+
  
 Figura 3. Modelagem dimensional do banco de dados, do sistema realizado.
+
 ![image](https://user-images.githubusercontent.com/114953233/193696470-e7369c3c-d307-4cb7-a5f7-6f9a00631a24.png)
 
 Fonte: Do autor
