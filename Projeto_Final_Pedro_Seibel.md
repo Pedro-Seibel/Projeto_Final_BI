@@ -1,7 +1,7 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 # Nome do projeto
 
-#### Aluno: [Pedro Iglesias Bessa Seibel]([https://github.com/Pedro-Seibel])
+#### Aluno: [Pedro Iglesias Bessa Seibel](https://github.com/Pedro-Seibel).
 #### Orientadora: [Anderson Nascimento](https://github.com/insightds).
 
 ---
