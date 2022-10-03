@@ -79,7 +79,7 @@ Relacionamentos – O relacionamento de bancos de dados é associação entre as
 Atributos – Os atributos são as informações que caracterizam as entidades e os relacionamentos mencionados. O atributo identifica, qualifica, descreve, quantifica e registra, o estado / situação / ocorrência, de uma entidade. Dentre os atributos usados no Sistema de BI, voltado para auxiliar processo de tomada de decisão e inteligência territorial do INCRA, cabe destacar Código MRT (Mercados Regionais de Terras), Área hectare e Classe de Uso (Uso e Cobertura do Solo), Valores da PPR (Planilhas de Preço Referencial da Terra), entre outros.
 
  
-Figura 3. Modelagem dimensional do banco de dados, do sistema realizado.
+Figura 1. Modelagem dimensional do banco de dados, do sistema realizado.
 
 ![image](https://user-images.githubusercontent.com/114953233/193696470-e7369c3c-d307-4cb7-a5f7-6f9a00631a24.png)
 
@@ -87,9 +87,20 @@ Fonte: Do autor
 
 ### 3. Resultados
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+As principais bases de dados utilizadas no sistema em questão, foram os Mercados Regionais de Terras (INCRA), Uso e Cobertura do Solo (IBGE), Planilha de Preços Referenciais da Terra (INCRA), Estados e Municípios (IBGE) e Áreas Urbanas com mais de 100.000 habitantes (IBGE). O Sistema de Administração Territorial (SAT) contém mapas, gráficos, listas, tabelas e relatórios elaborados para a implementação de Sistema de BI, voltado para auxiliar processo de tomada de decisão e inteligência territorial, dos Institutos de Terras brasileiros.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+Figura 2. Exemplo de Dashboard (análise do uso do solo como um todo) implementado no Sistema de BI realizado para auxiliar processo de tomada de decisão dos Institutos de Terras brasileiros.
+
+![image](https://user-images.githubusercontent.com/114953233/193697322-fde53060-b2c0-440f-9f0b-395eda4488c3.png)
+
+Fonte: Do autor
+
+Figura 3. Exemplo de Dashboard de análise da agricultura implementado no Sistema de BI realizado para auxiliar processo de tomada de decisão dos Institutos de Terras brasileiros.
+
+![image](https://user-images.githubusercontent.com/114953233/193697669-2b46182b-14a8-4f48-a2e1-06a44a5d5d8d.png)
+
+Fonte: Do autor
+
 
 ### 4. Conclusões
 
