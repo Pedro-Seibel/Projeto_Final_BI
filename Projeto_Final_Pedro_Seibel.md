@@ -1,5 +1,6 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# Implementação de sistema de administração territorial (SIG e BI), voltado para auxiliar o processo de tomada de decisão e de inteligência territorial de Institutos de Terras
+# Implementação de Sistema de SIG e BI, voltado para auxiliar o processo de tomada de decisão e de inteligência territorial, na Gestão do Território.
+
 
 #### Aluno: [Pedro Iglesias Bessa Seibel](https://github.com/Pedro-Seibel).
 #### Orientadora: [Anderson Nascimento](https://github.com/insightds).
